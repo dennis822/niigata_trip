@@ -1,0 +1,2 @@
+# niigata_trip
+ngttrip
